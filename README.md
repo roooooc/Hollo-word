@@ -3,4 +3,4 @@ To learning programing.
 
 about:C++:
 
-I love :computer:.
+I like :computer:.
